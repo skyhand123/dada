@@ -1,6 +1,4 @@
 # 公共配置文件
-# @author <a href="https://github.com/liyupi">程序员鱼皮</a>
-# @from <a href="https://yupi.icu">编程导航知识星球</a>
 spring:
   application:
     name: yudada-backend
@@ -107,4 +105,4 @@ knife4j:
           - com.yupi.yudada.controller
 # AI 配置
 ai:
-  apiKey: 改为自己的 key
+  apiKey: 116262a802814d76b97febb85ea8b156.VGbHraeEwb9nffkK

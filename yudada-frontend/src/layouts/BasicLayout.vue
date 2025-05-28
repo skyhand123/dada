@@ -8,8 +8,8 @@
         <router-view />
       </a-layout-content>
       <a-layout-footer class="footer">
-        <a href="https://www.code-nav.cn" target="_blank">
-          编程导航 by 程序员鱼皮
+        <a  target="_blank">
+          那我问你小组开发
         </a>
       </a-layout-footer>
     </a-layout>
